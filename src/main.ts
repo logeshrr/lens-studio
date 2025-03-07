@@ -1,5 +1,10 @@
 
 import { bootstrapCameraKit } from '@snap/camera-kit';
+import { defineConfig } from 'vite';
+
+export default defineConfig({
+  base: '/lens-studio/', // Change to your GitHub repo name
+});
 
 (async function () {
   try {

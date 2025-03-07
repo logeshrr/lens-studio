@@ -11,7 +11,8 @@
   },
   "devDependencies": {
     "typescript": "~5.7.2",
-    "vite": "^6.2.0"
+    "vite": "^6.2.0",
+    "gh-pages": "^5.0.0"
   },
   "dependencies": {
     "@snap/camera-kit": "^1.3.0"
